@@ -1,3 +1,17 @@
-.h1{
-   color: coral;
+h1{
+   color: rgb(35, 199, 191);
+   padding: 10px;
+   font-size: 53px;
+   text-align: center;
+   text-transform: capitalize;
+   box-shadow: 0 5px 5px purple;
+   background-color: rgb(233, 176, 233);
+   font-weight: bold;
+}
+.map{
+    width: 1000px;
+    height: 35em;
+}
+code{
+    box-shadow: 0 3px 3px rgb(100, 160, 230);
 }
